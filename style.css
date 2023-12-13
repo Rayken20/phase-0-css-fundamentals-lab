@@ -3,3 +3,36 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+#featured-property{
+text-align: center; 
+}
+#navigation{
+  background-color: grey;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#caption{
+  font-size: small;
+}
+.paragraph{
+  width: 800px;
+  margin: 10px 20;
+  display: contents;
+  text-align: center;
+  
+}
+#details{
+  display: flex;
+  background-color: red;
+  text-align: center;
+  width: 100%;
+  
+}
+div{
+  margin-left: 10px;
+  width: 25%
+}
